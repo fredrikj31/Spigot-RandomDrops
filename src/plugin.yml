@@ -1,0 +1,5 @@
+name: RandomDrops
+author: Fredrik Johansen
+version: 1.0.0
+main: me.fredrik.RandomDrops.RandomDrops
+description: A plugin that changes the behavior of the drops in Minecraft
